@@ -72,6 +72,6 @@ seguindo boas práticas de arquitetura em camadas.
 ---
 
 ### 📫 Contato
-- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-kobayashi-53849632b/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-kobayashi-dev/)
 - 💻 GitHub: https://github.com/Gabriel-Kobayashi
 - 📧 Email: gabrielkobayashi11@gmail.com
