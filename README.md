@@ -43,7 +43,7 @@ carrinho de compras, pedidos e fluxo de pagamento simulado.
 - Proteção de rotas e ownership por usuário autenticado
 - Arquitetura em camadas e código organizado
 
-🔗 https://github.com/Gabriel-Kobayashi/spring-ecommerce
+🔗 https://github.com/gabriel-kobayashi/spring-ecommerce
 
 ---
 
@@ -59,7 +59,7 @@ seguindo boas práticas de arquitetura em camadas.
 - Tratamento de erros e proteção de endpoints
 - Organização clara em Controller, Service e Repository
 
-🔗 https://github.com/Gabriel-Kobayashi/gerenciador-de-usuarios
+🔗 https://github.com/gabriel-kobayashi/gerenciador-de-usuarios
 
 ---
 
@@ -72,6 +72,6 @@ seguindo boas práticas de arquitetura em camadas.
 ---
 
 ### 📫 Contato
-- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-kobayashi-dev/)
-- 💻 GitHub: https://github.com/Gabriel-Kobayashi
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-kobayashi11/)
+- 💻 GitHub: https://github.com/gabriel-kobayashi
 - 📧 Email: gabrielkobayashi11@gmail.com
